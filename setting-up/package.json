@@ -4,7 +4,8 @@
   "description": "01: Setting Up Tailwind CSS",
   "main": "index.js",
   "scripts": {
-    "dev": "vite"
+    "dev": "vite",
+    "build": "tailwindcss build css/tailwind.css -o build/tailwind.css"
   },
   "author": "Yash Singh",
   "license": "MIT",
