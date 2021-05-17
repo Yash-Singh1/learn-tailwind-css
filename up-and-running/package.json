@@ -1,0 +1,17 @@
+{
+  "name": "up-and-running",
+  "version": "1.0.0",
+  "description": "01: Setting Up Tailwind CSS",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite"
+  },
+  "author": "Yash Singh",
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "^10.2.5",
+    "postcss": "^8.2.15",
+    "tailwindcss": "^2.1.2",
+    "vite": "^2.3.3"
+  }
+}
